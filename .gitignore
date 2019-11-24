@@ -1,0 +1,14 @@
+node_modules
+coverage
+dist
+.opt-in
+.opt-out
+*.log
+parceldemo
+.netlify
+package-lock.json
+yarn.lock
+
+.npmrc
+## blanking it out for now
+vscode-extension
